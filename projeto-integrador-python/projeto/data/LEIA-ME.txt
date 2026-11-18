@@ -1,0 +1,2 @@
+Salve aqui o arquivo vgsales.csv baixado do Kaggle:
+https://www.kaggle.com/datasets/gregorut/videogamesales
